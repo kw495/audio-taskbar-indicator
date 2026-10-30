@@ -21,7 +21,7 @@ Windows 11 で、**音を出しているウィンドウのタスクバーボタ�
 ## インストール
 
 ```bat
-git clone https://github.com/<your-name>/audio-taskbar-indicator.git
+git clone https://github.com/kw495/audio-taskbar-indicator.git
 cd audio-taskbar-indicator
 py -m pip install -r requirements.txt
 ```
