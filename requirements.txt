@@ -1,0 +1,5 @@
+pycaw
+comtypes
+psutil
+pystray
+Pillow
